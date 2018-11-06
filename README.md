@@ -1,7 +1,9 @@
 # bookapi
 
 
-bookapi
-Build an Angular and Spring MVC Web Application 강좌 따라한것
 
-Spring MVC, hibernate, Mysql, c3p0
+-udemy
+-Build an Angular and Spring MVC Web Application
+- https://www.udemy.com/build-an-angular-and-spring-mvc-web-application/
+
+-Spring MVC, hibernate, Mysql, c3p0
